@@ -18,7 +18,7 @@ public class App {
                 new Book("Análisis de Sistemas", "Pedro León", 2015),
                 new Book("Ciencias de la Computación", "Ana Ruiz", 2021),
                 new Book("Fundamentos", "Luis Pérez", 2014),
-                new Book("Fundamentos", "Luis Pérez", 2022), // Duplicado
+                new  Book("Fundamentos", "Luis Pérez", 2022), // Duplicado
                 new Book("Python desde cero", "María Díaz", 2023),
                 new Book("Python desde cero", "María Díaz", 2024), // Duplicado
                 new Book("Inteligencia Artificial", "Jorge Paredes", 2020),

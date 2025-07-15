@@ -25,7 +25,7 @@ Los libros deben estar **ordenados primero por título en orden descendente** y,
 
 ---
 
-## Controlador
+## Controlad or
 
 Clase: `controllers.LibroController`
 

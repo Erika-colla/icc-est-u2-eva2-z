@@ -13,7 +13,7 @@ public class Book {
         this.anio = anio;
     }
 
-    public String getTitulo() {
+    public  String getTitulo() {
         return titulo;
     }
 
